@@ -11,10 +11,11 @@ All testing was conducted responsibly, with a focus on identifying common securi
 - #### Report.pdf
     The complete security assessment report, including objectives, methodology, findings, and conclusions.
 
-- #### evidences/
+- #### Evidences/
     Supporting evidence referenced in the report, including:
     - Screenshots of observations
     - Network reconnaissance output (nmap.txt)
+    - Bugcrowd screenshot showing the webiste as in-scope at the time of assessment
 
 ### Scope and Ethics
 
