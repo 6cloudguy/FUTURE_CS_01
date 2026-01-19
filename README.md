@@ -8,23 +8,19 @@ All testing was conducted responsibly, with a focus on identifying common securi
 
 ### Contents
 
-Report.pdf
-The complete security assessment report, including objectives, methodology, findings, and conclusions.
+- #### Report.pdf
+    The complete security assessment report, including objectives, methodology, findings, and conclusions.
 
-evidences/
-Supporting evidence referenced in the report, including:
-
-Screenshots of observations
-
-Limited network reconnaissance output (nmap.txt)
+- #### evidences/
+    Supporting evidence referenced in the report, including:
+    - Screenshots of observations
+    - Network reconnaissance output (nmap.txt)
 
 ### Scope and Ethics
 
-The target application was explicitly listed as in scope by the Bugcrowd program.
-
-No unauthorized, intrusive, or destructive testing was performed.
-
-No sensitive data, exploit code, or confidential information is included in this repository.
+- The target application was explicitly listed as in scope by the Bugcrowd program.
+- No unauthorized, intrusive, or destructive testing was performed.
+- No sensitive data, exploit code, or confidential information is included in this repository.
 
 ### Disclaimer
 
