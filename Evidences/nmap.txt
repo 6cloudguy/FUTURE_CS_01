@@ -1,0 +1,8 @@
+┌──(kali㉿kali)-[~]
+└─$ nmap www.verisign.com -p- -Pn
+Starting Nmap 7.95 ( https://nmap.org ) at 2026-01-18 15:32
+Nmap scan report for www.verisign.com (72.13.63.40)
+Not shown: 64345 filtered tcp ports (no-response), 1188 filtered tcp ports (net-unreach)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
